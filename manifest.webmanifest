@@ -8,12 +8,6 @@
     "short_name": "Cheapmedia",
     "icons": [
         {
-            "src": "https://github.com/gupalenok/cmdigital/icon-144x144.svg",
-            "sizes": "144x144",
-            "type": "image/svg+xml",
-            "purpose": "maskable"
-        },
-        {
             "src": "https://github.com/gupalenok/cmdigital/icon-72x72.png",
             "sizes": "72x72",
             "type": "image/png",
@@ -59,7 +53,7 @@
             "src": "https://github.com/gupalenok/cmdigital/icon-512x512.png",
             "sizes": "512x512",
             "type": "image/png",
-            "purpose": "maskable"
+            "purpose": "maskable any"
         }
     ]
 }
