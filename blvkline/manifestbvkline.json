@@ -1,0 +1,12 @@
+{
+  "background_color": "#ffffff",
+  "display": "standalone",
+  "name": "blvck-line",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "blvck-line",
+  "start_url": "/",
+  "theme_color": "#ffffff",
+  "lang": "en",
+  "description": "blvck-line offical app"
+}
