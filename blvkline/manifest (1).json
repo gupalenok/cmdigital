@@ -11,17 +11,132 @@
   "theme_color": "#00aeef",
   "icons": [
     {
-      "src": "https://static.tildacdn.com/tild6461-3163-4832-a263-333130316432/BLVCK_LINE_favicon_2.ico",
-      "type": "image/x-icon"
+      "src": "https;//gupalenok.github.io/blvkline/android/android-launchericon-512-512.png",
+      "sizes": "512x512"
     },
     {
-      "src": "https://static.tildacdn.com/tild3665-3037-4531-b131-303531646136/BLVCK_LINE_2.jpg",
-      "type": "image/jpeg",
-      "sizes": "1680x1680"
+      "src": "https;//gupalenok.github.io/blvkline/android/android-launchericon-192-192.png",
+      "sizes": "192x192"
     },
     {
-      "src": "/favicon.ico",
-      "type": "image/x-icon"
+      "src": "https;//gupalenok.github.io/blvkline/android/android-launchericon-144-144.png",
+      "sizes": "144x144"
+    },
+    {
+      "src": "https;//gupalenok.github.io/blvkline/android/android-launchericon-96-96.png",
+      "sizes": "96x96"
+    },
+    {
+      "src": "https;//gupalenok.github.io/blvkline/android/android-launchericon-72-72.png",
+      "sizes": "72x72"
+    },
+    {
+      "src": "https;//gupalenok.github.io/blvkline/android/android-launchericon-48-48.png",
+      "sizes": "48x48"
+    },
+    {
+      "src": "https;//gupalenok.github.io/blvkline/ios/16.png",
+      "sizes": "16x16"
+    },
+    {
+      "src": "https;//gupalenok.github.io/blvkline/ios/20.png",
+      "sizes": "20x20"
+    },
+    {
+      "src": "https;//gupalenok.github.io/blvkline/ios/29.png",
+      "sizes": "29x29"
+    },
+    {
+      "src": "https;//gupalenok.github.io/blvkline/ios/32.png",
+      "sizes": "32x32"
+    },
+    {
+      "src": "https;//gupalenok.github.io/blvkline/ios/40.png",
+      "sizes": "40x40"
+    },
+    {
+      "src": "https;//gupalenok.github.io/blvkline/ios/50.png",
+      "sizes": "50x50"
+    },
+    {
+      "src": "https;//gupalenok.github.io/blvkline/ios/57.png",
+      "sizes": "57x57"
+    },
+    {
+      "src": "https;//gupalenok.github.io/blvkline/ios/58.png",
+      "sizes": "58x58"
+    },
+    {
+      "src": "https;//gupalenok.github.io/blvkline/ios/60.png",
+      "sizes": "60x60"
+    },
+    {
+      "src": "https;//gupalenok.github.io/blvkline/ios/64.png",
+      "sizes": "64x64"
+    },
+    {
+      "src": "https;//gupalenok.github.io/blvkline/ios/72.png",
+      "sizes": "72x72"
+    },
+    {
+      "src": "https;//gupalenok.github.io/blvkline/ios/76.png",
+      "sizes": "76x76"
+    },
+    {
+      "src": "https;//gupalenok.github.io/blvkline/ios/80.png",
+      "sizes": "80x80"
+    },
+    {
+      "src": "https;//gupalenok.github.io/blvkline/ios/87.png",
+      "sizes": "87x87"
+    },
+    {
+      "src": "https;//gupalenok.github.io/blvkline/ios/100.png",
+      "sizes": "100x100"
+    },
+    {
+      "src": "https;//gupalenok.github.io/blvkline/ios/114.png",
+      "sizes": "114x114"
+    },
+    {
+      "src": "https;//gupalenok.github.io/blvkline/ios/120.png",
+      "sizes": "120x120"
+    },
+    {
+      "src": "https;//gupalenok.github.io/blvkline/ios/128.png",
+      "sizes": "128x128"
+    },
+    {
+      "src": "https;//gupalenok.github.io/blvkline/ios/144.png",
+      "sizes": "144x144"
+    },
+    {
+      "src": "https;//gupalenok.github.io/blvkline/ios/152.png",
+      "sizes": "152x152"
+    },
+    {
+      "src": "https;//gupalenok.github.io/blvkline/ios/167.png",
+      "sizes": "167x167"
+    },
+    {
+      "src": "https;//gupalenok.github.io/blvkline/ios/180.png",
+      "sizes": "180x180"
+    },
+    {
+      "src": "https;//gupalenok.github.io/blvkline/ios/192.png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "https;//gupalenok.github.io/blvkline/ios/256.png",
+      "sizes": "256x256"
+    },
+    {
+      "src": "https;//gupalenok.github.io/blvkline/ios/512.png",
+      "sizes": "512x512"
+    },
+    {
+      "src": "https;//gupalenok.github.io/blvkline/ios/1024.png",
+      "sizes": "1024x1024"
     }
   ]
 }
