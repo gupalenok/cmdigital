@@ -9,4 +9,12 @@
   "theme_color": "#ffffff",
   "lang": "en",
   "description": "blvck-line offical app"
+  "icons": [
+  {
+      "src": "https://gupalenok.github.io/blvkline/android/android-launchericon-512-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+  }
+]
 }
