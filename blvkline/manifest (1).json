@@ -1,0 +1,27 @@
+{
+  "background_color": "#ffffff",
+  "description": "Blvckline Wheels shop",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "blvck-line",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "blvck-line",
+  "start_url": "/",
+  "theme_color": "#00aeef",
+  "icons": [
+    {
+      "src": "https://static.tildacdn.com/tild6461-3163-4832-a263-333130316432/BLVCK_LINE_favicon_2.ico",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "https://static.tildacdn.com/tild3665-3037-4531-b131-303531646136/BLVCK_LINE_2.jpg",
+      "type": "image/jpeg",
+      "sizes": "1680x1680"
+    },
+    {
+      "src": "/favicon.ico",
+      "type": "image/x-icon"
+    }
+  ]
+}
