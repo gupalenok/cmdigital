@@ -8,49 +8,49 @@
     "short_name": "Cheapmedia",
     "icons": [
         {
-            "src": "https://github.com/gupalenok/cmdigital/blob/main/icon-72x72.png",
+            "src": "https://github.com/gupalenok/cmdigital/icon-72x72.png",
             "sizes": "72x72",
             "type": "image/png",
             "purpose": "maskable any"
         },
         {
-            "src": "https://github.com/gupalenok/cmdigital/blob/main/icon-96x96.png",
+            "src": "https://github.com/gupalenok/cmdigital/icon-96x96.png",
             "sizes": "96x96",
             "type": "image/png",
             "purpose": "maskable any"
         },
         {
-            "src": "https://github.com/gupalenok/cmdigital/blob/main/icon-128x128.png",
+            "src": "https://github.com/gupalenok/cmdigital/icon-128x128.png",
             "sizes": "128x128",
             "type": "image/png",
             "purpose": "maskable any"
         },
         {
-            "src": "https://github.com/gupalenok/cmdigital/blob/main/icon-144x144.png",
+            "src": "https://github.com/gupalenok/cmdigital/icon-144x144.png",
             "sizes": "144x144",
             "type": "image/png"
             "purpose": "maskable any"
         },
         {
-            "src": "https://github.com/gupalenok/cmdigital/blob/main/icon-192x192.png",
+            "src": "https://github.com/gupalenok/cmdigital/icon-192x192.png",
             "sizes": "192x192",
             "type": "image/png"
             "purpose": "maskable any"
         },
         {
-            "src": "https://github.com/gupalenok/cmdigital/blob/main/icon-256x256.png",
+            "src": "https://github.com/gupalenok/cmdigital/icon-256x256.png",
             "sizes": "256x256",
             "type": "image/png"
             "purpose": "maskable any"
         },
         {
-            "src": "https://github.com/gupalenok/cmdigital/blob/main/icon-384x384.png",
+            "src": "https://github.com/gupalenok/cmdigital/icon-384x384.png",
             "sizes": "384x384",
             "type": "image/png"
             "purpose": "maskable any"
         },
         {
-            "src": "https://github.com/gupalenok/cmdigital/blob/main/icon-512x512.png",
+            "src": "https://github.com/gupalenok/cmdigital/icon-512x512.png",
             "sizes": "512x512",
             "type": "image/png",
             "purpose": "maskable any"
