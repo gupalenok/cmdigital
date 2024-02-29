@@ -8,25 +8,25 @@
     "short_name": "Cheapmedia",
     "icons": [
         {
-            "src": "https://https://github.com/gupalenok/cmdigital/icon-144x144.svg",
+            "src": "https://github.com/gupalenok/cmdigital/icon-144x144.svg",
             "sizes": "144x144",
             "type": "image/svg+xml",
             "purpose": "maskable"
         },
         {
-            "src": "https://https://github.com/gupalenok/cmdigital/icon-72x72.png",
+            "src": "https://github.com/gupalenok/cmdigital/icon-72x72.png",
             "sizes": "72x72",
             "type": "image/png",
             "purpose": "maskable any"
         },
         {
-            "src": "https://https://github.com/gupalenok/cmdigital/icon-96x96.png",
+            "src": "https://github.com/gupalenok/cmdigital/icon-96x96.png",
             "sizes": "96x96",
             "type": "image/png",
             "purpose": "maskable any"
         },
         {
-            "src": "https://https://github.com/gupalenok/cmdigital/icon-128x128.png",
+            "src": "https://github.com/gupalenok/cmdigital/icon-128x128.png",
             "sizes": "128x128",
             "type": "image/png",
             "purpose": "maskable any"
